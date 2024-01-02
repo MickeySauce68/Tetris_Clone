@@ -1,0 +1,16 @@
+Where we left off:
+    complete - We got the block to rotate
+    
+    complete - Checking for collisions
+
+    complete - checking for completed rows 
+
+    complete - Game over
+
+    complete - create user interface
+
+    complete - add score
+
+    - add next block
+
+    - add sounds
