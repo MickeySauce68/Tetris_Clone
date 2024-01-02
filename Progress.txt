@@ -11,6 +11,6 @@ Where we left off:
 
     complete - add score
 
-    - add next block
+    complete - add next block
 
-    - add sounds
+    complete - add sounds
